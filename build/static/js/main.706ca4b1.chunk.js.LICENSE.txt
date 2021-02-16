@@ -1,0 +1,7 @@
+//! realtime connection
+
+//! to prevent page refreshing when when we submit
+
+//!resets enter
+
+//!some clever db stuff here
